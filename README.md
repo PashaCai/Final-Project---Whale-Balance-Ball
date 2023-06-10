@@ -1,6 +1,7 @@
 # Final-Project---Whale-Balance-Ball
 <h2>Final Project for Creative Making: Advanced Visualisation and Computational Environments .</h2>
 <h3><a href = "https://youtu.be/VrU-t2BdlO4" target="_blank" style="text-decoration:none;" >LINK TO Demonstration Video:</a>https://youtu.be/VrU-t2BdlO4</h3>
+<h3>Due to the Blueprint plugin, the UE5 files have failed to pack several times, so only the Content and Plugins of the UE5 files are available here. If you need to experience the game, you can download these two files above, put them into your local project's folder, replace the Content file in it, and put the Plugins file in the project's root directory, then go into that project in UE5, open Explorer, go to Content/Finalwork/Map/Map_1, and double-click the map to enter the game.</h3>
 <img width="100%" src="https://github.com/PashaCai/Final-Project---Whale-Balance-Ball/blob/master/Picture%20for%20readme/1.png"/>
 <hr>
 <h4>Team Member: Rui Cai 22008912; Yujie Gao 22016089; Qihe Liu 21010891; Yuhang He 22010754; </h4>
